@@ -1,6 +1,11 @@
-# back-end-for-pepegadev.Fun
+# a simple crud api with nodejs.
+## Installation
 
+Use the package manager [nodejs](https://nodejs.dev/en/download/) to install foobar.
 
-a easy way to understand nodejs implementation .
+```bash
+npm install -g npm
+```
+## db change the creds in app.js to yours
 
-you can look throw the files to understand how it works . 
+the api include: Create,Update,Delete,Read
